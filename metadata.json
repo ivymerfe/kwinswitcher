@@ -1,0 +1,12 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Name": "Group Switcher",
+    "Description": "Window groups for kwin",
+    "Icon": "dialog-tile-clones",
+    "Id": "kwinswitcher",
+    "Version": "1.0"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js"
+}
