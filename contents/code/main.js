@@ -6,7 +6,7 @@ const GROUPS = {
   "org.kde.dolphin": "explorer",
   "org.kde.konsole": "terminal",
   "org.kde.plasma-systemmonitor": "monitor",
-  code: "code",
+  "com.microsoft.vscode": "code",
   idea: "code",
   kate: "code",
   pycharm: "code",
